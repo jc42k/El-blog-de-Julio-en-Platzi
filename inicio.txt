@@ -1,3 +1,7 @@
 Buenos Aires, 26 de enero de 2021.
 
-Estamos practicando los comandos aprendidos de Git. En la clase 14 de Platzi nos comentaron que no avanzaramos hasta tener claros los comandos y para qué sirven.
+Estamos practicando los comandos aprendidos de Git. 
+
+En la clase 14 de Platzi nos comentaron que no avanzaramos hasta tener claros los comandos y para qué sirven.
+
+Es mejor no hace líneas tan largas para escribir un archivo de texto.
