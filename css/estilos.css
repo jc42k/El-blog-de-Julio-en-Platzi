@@ -8,6 +8,17 @@ body
     margin: 0;
     padding: 0;
 }
+
+#cabecera
+{
+    background: blue;
+    color: cornsilk;
+    margin: 0;
+    padding-left: 0.5em;
+
+
+}
+
 #container
 {
     width: 70%;
